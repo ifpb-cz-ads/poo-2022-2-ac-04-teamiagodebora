@@ -1,4 +1,4 @@
-public class CBBAtividadePratica3 {
+public class CBBAtividadePratica5 {
     public static void main(String[] args) {
         int Contador = 0;
         while(Contador <= 100){
